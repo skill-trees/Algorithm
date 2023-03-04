@@ -23,10 +23,10 @@ class Solution {
             stack.add(next);
         }
 
-         while(k > 0){
-             stack.pop();
-             k--;
-         }
+//         while(k > 0){
+//             stack.pop();
+//             k--;
+//         }
 
 
         StringBuilder answer = new StringBuilder();
